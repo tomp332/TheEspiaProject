@@ -1,0 +1,6 @@
+[submodule "Espia_Server"]
+	path = Espia_Server
+	url = https://github.com/tomp332/Espia_Server
+[submodule "Espia_Client"]
+	path = Espia_Client
+	url = https://github.com/tomp332/Espia_Client

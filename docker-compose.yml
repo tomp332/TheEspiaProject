@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+        espia_server:
+                container_name: espia_server
+                restart: always
+                image: ghcr.io/tomp332/espia-server:latest
+                ports:
+                        - 443:443
+                volumes:
+                        # Your main configuration file
+                        - type: bind
+                          source: <your main config.ini file>
+                          target: /server/espia_server/configs/config.ini
+                        # Storage for all session files that Espia receives
+                        - type: bind
+                          source: <path to all local session files storage>
+                          target: /server/espia_server/app/uploads
+                        # By default there are localhost public\private keys installed,
+                        # if you want production ones override them, otherwise remove these 2 binds
+                        - type: bind
+                          source: <path to public key>
+                          target: /server/espia_server/certs/public_key.pem
+                        - type: bind
+                          source: <path to private key>
+                          target: /server/espia_server/certs/private_key.pem
