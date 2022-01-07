@@ -7,7 +7,7 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/tomp332/Espia_Server.svg)](https://github.com/tomp332/Espia_Server/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ftomp332)
+![Tweet](https://img.shields.io/twitter/url?url=https://twitter.com/tomp332)
 
 # Table of contents
 - [Table of contents](#table-of-contents)
