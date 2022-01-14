@@ -8,8 +8,9 @@
   ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
   [![GitHub Issues](https://img.shields.io/github/issues/tomp332/Espia_Server.svg)](https://github.com/tomp332/Espia_Server/issues)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  ![Tweet](https://img.shields.io/twitter/url?url=https://twitter.com/tomp332)
-  
+  [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomp12@protonmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-paz-906788226/)
+  [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomp332)
 </div>
 
 # Table of contents
