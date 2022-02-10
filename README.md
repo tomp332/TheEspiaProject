@@ -82,7 +82,8 @@ MAILGUN_USER = <Mailgun username>
 DESTINATION_EMAIL = <Destination email for results to be sent to>
 ```
 *note prod mode will disable all the debug routes such as /docs for a Swagger application*
-* note 0.0.0.0 is meant to run inside docker environment, so don't change it *
+
+*note 0.0.0.0 is meant to run inside docker environment, so don't change it*
 <br><br>
 
 ###### Local
