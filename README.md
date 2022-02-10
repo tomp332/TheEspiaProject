@@ -66,7 +66,7 @@ when results have been retrieved.
 ### Server Setup
 Clone the main project and all submodules
 ```
-git clone --recurse-submodules git clone --recurse-submodules https://github.com/tomp332/TheEspiaProject.git
+git clone --recurse-submodules https://github.com/tomp332/TheEspiaProject.git
 ```
 Create your configuration template file using the following format:
 ```
