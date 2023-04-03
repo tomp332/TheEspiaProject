@@ -4,7 +4,6 @@
 <div style="margin:auto;width:100%;text-align:center;aligh:center">
   
   ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-  [![Build Status](https://travis-ci.org/anfederico/clairvoyant.svg?branch=master)](https://travis-ci.org/tomp332/Espia_Server)
   ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
   [![GitHub Issues](https://img.shields.io/github/issues/tomp332/Espia_Server.svg)](https://github.com/tomp332/Espia_Server/issues)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
